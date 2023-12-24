@@ -9,7 +9,7 @@ const questions = [
     ],
   },
   {
-    question: "What is the purpose of the HTML <div> element?",
+    question: "What is the purpose of the HTML div element?",
     answers: [
       { text: "It defines a hyperlink.", correct: false },
       {
