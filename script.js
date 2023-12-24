@@ -21,7 +21,7 @@ const questions = [
     ],
   },
   {
-    question: "What is the purpose of the HTML <head> element?",
+    question: "What is the purpose of the HTML head element?",
     answers: [
       {
         text: " It defines the main content of the HTML document.",
