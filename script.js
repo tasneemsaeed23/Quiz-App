@@ -9,7 +9,7 @@ const questions = [
     ],
   },
   {
-    question: "What is the purpose of the HTML div element?",
+    question: "What is the purpose of the HTML `div` element?",
     answers: [
       { text: "It defines a hyperlink.", correct: false },
       {
@@ -21,7 +21,7 @@ const questions = [
     ],
   },
   {
-    question: "What is the purpose of the HTML head element?",
+    question: "What is the purpose of the HTML `head` element?",
     answers: [
       {
         text: " It defines the main content of the HTML document.",
@@ -39,7 +39,7 @@ const questions = [
     ],
   },
   {
-    question: "What does the HTML attribute src stand for?",
+    question: "What does the HTML attribute `src` stand for?",
     answers: [
       { text: " Source", correct: true },
       { text: " Script", correct: false },
